@@ -3,6 +3,8 @@
 
 # Recruit : Job Postion
 
+<img src="https://peertec.com/wp-content/uploads/2021/07/3.gif">
+
 * <a href="https://peertec.com/wp-content/uploads/2021/07/front-end-scaled.jpg">프론트엔드 개발자</a>
 
 * <a href="https://peertec.com/wp-content/uploads/2021/07/back-end-scaled.jpg">백엔드 개발자</a>
