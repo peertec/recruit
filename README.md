@@ -20,11 +20,40 @@
 
 > 세계 최대규모의 금융기술기업이 되고자합니다.
 
+
 # 비전
 
 >블록체인을 통한 글로벌 금융혁신과 가치창출에 집중합니다.
 오픈플랫폼을 통해 모든 자산을 유동화시키고, 누구나 손쉽게 접근하도록 합니다.
 유동화 자산을 통해, 투자, 이체, 송금, 예치 등의 금융서비스를 제공합니다.
 
-<a href="https://peertec.com/wp-content/uploads/2021/07/recruit_position_frontend.png">프론트엔드 개발자</a>
 
+# 근황 
+
+>다양한 금융 서비스/상품 런칭, 수익화 완료.
+업계 최초 대기업 및 증권사 포함 국내외 유수의 파트너 사들과 협업 중.
+
+
+# Recruit : Job Postion
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/front-end-scaled.jpg">프론트엔드 개발자</a>
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/back-end-scaled.jpg">백엔드 개발자</a>
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/android-dev-scaled.jpg">안드로이드 개발자</a>
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/cto-scaled.jpg">CTO</a>
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/quant-dev-scaled.jpg">디지털 자산 운용 퀀트 개발자</a>
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/wallet-dev-scaled.jpg">디지털 자산 거래소 지갑 개발자</a>
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/compliance_01-scaled.jpg">컴플라이언스 : AML 보고 책임자/준법감시인</a>
+
+* <a href="https://peertec.com/wp-content/uploads/2021/07/compliance-scaled.jpg">컴플라이언스 : AML 보고 담당자</a>
+
+* <a href=""></a>
+
+* <a href=""></a>
+
+* <a href=""></a>
